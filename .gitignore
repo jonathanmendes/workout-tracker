@@ -1,0 +1,34 @@
+# sass
+.sass-cache/
+src/styles/main.css
+
+# node
+node_modules/
+**/node_modules
+
+# bower
+**/bower_components
+
+# OSX
+.DS_Store
+
+# awspublish
+.awspublish*
+
+# secrets
+__*
+
+# vim
+.*.swp
+.*.swo
+
+# self signed certs
+key.pem
+cert.pem
+
+# other
+dist/*
+vdist/*
+src/templates.js
+
+*.log
